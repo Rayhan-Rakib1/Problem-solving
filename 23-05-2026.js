@@ -65,4 +65,4 @@
 // console.log(capitalize(text));
 
 
-// const text = "i am rayhan rakib . i am a full stack developer . i am good as backend technology"
+const text = "i am rayhan rakib . i am a full stack developer . i am good as backend technology"
